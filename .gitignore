@@ -2,3 +2,4 @@
 venv
 db.sqlite3
 accounts/__pycache__
+django_auth/__pycache__
