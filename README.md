@@ -1,2 +1,2 @@
-# djano_authentication_and_authorisation
-# djano_authentication_and_authorisation
+# django_authentication_and_authorisation
+
